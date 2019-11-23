@@ -5,7 +5,7 @@
 # Configure the English version of the site.
 [en]
   languageCode = "en-us"
-  # contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+   contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
 
 # Uncomment the lines below to configure your website in a second language.
 #[zh]
@@ -18,3 +18,34 @@
 #    name = "Wo"
 #    url = "#about"
 #    weight = 1
+
+[de]
+  languageCode = "de"
+  contentDir = "content/de"
+  title = "Vibhor Startseite"
+  [de.params]
+    description = "Das ist die startseite für Aggarwal Vibhor"
+  [[de.menu.main]]
+    name = "Startseite"
+    url = "#about"
+    weight = 10
+  [[de.menu.main]]
+  name = "Projekte"
+  url = "#projects"
+  weight = 30
+
+
+ [[de.menu.main]]
+   name = "Kontakt"
+   url = "#contact"
+   weight = 60
+
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+  [[de.menu.main]]
+    name = "Lebenslauf"
+    url = "files/CV_De.pdf"
+    
+  [[de.menu.main]]
+    name = "Kurzer_Lebenslauf"
+    url = "files/VibhorResume_de.pdf"
