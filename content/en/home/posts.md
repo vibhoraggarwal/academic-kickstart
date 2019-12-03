@@ -4,7 +4,7 @@
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
 title = "Books"
@@ -66,6 +66,8 @@ subtitle = "Read recently"
  css_class = ""
 +++
 
+
+<span style="color: #382110">my read shelf:</span><br/><a href="https://www.goodreads.com/review/list/40026802?shelf=read" title="Vibhor Aggarwal's book recommendations, liked quotes, book clubs, book trivia, book lists (read shelf)", rel="nofollow"><img border="0" alt="Vibhor Aggarwal's book recommendations, liked quotes, book clubs, book trivia, book lists (read shelf)" src="https://www.goodreads.com/images/badge/badge1.jpg"></a>
 
 
    
