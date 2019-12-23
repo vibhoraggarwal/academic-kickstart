@@ -33,10 +33,10 @@
   name = "Projekte"
   url = "#projects"
   weight = 30
-[[de.menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 50
+#[[de.menu.main]]
+ # name = "Posts"
+  #url = "#posts"
+  #weight = 50
 
  [[de.menu.main]]
    name = "Kontakt"
