@@ -43,9 +43,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:vibhorag24@gmail.com".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/vibhor_a
+#- icon: twitter
+# icon_pack: fab
+# link: https://twitter.com/vibhor_a
 
 - icon: linkedin
   icon_pack: fab
