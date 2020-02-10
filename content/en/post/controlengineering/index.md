@@ -37,6 +37,9 @@ Test exam 2 solution: [Click here](https://vibhoraggarwal.github.io/files/contro
 
 Test exam 3 solution: [Click here](https://vibhoraggarwal.github.io/files/controlengineering/examsolution/soltestexam3.pdf)
 
+Exam Preparation_Exercises questions 8 to 10: [Click here](https://vibhoraggarwal.github.io/files/controlengineering/examsolution/ExamPreparation_Exercisessolution.pdf)
+
+In case you find any error with my solutions, please inform me as well on vibhorag24@gmail.com. That would be really helpful.
 Best of luck for the exam. Ciao
 
-P.S: I don't own any questions, that's why questions are not displayed. I only own the answers, for which I don't find any problem with copyright. If somebody has problem, just mail me at vibhorag24@gmail.com. I will take them down.
+P.S: I don't own any questions(those are owned by RWTH), that's why questions are not displayed. I only own the answers, for which I don't find any problem with copyright. If somebody has problem, just mail me at vibhorag24@gmail.com. I will take them down.
