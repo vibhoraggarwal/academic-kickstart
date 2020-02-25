@@ -8,8 +8,8 @@ tags:
 - Control engineering
 categories:
 - 
-date: "2020-02-10T00:00:00Z"
-lastmod: "2020-02-10T00:00:00Z"
+date: "2020-02-11T00:00:00Z"
+lastmod: "2020-02-11T00:00:00Z"
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ projects: []
 
 Test exam 1 solution: [Click here](https://vibhoraggarwal.github.io/files/controlengineering/examsolution/soltestexam1.pdf)
 
-Test exam 2 solution: [Click here](https://vibhoraggarwal.github.io/files/controlengineering/examsolution/soltestexam2.pdf)
+Test exam 2 solution: [Click here](https://vibhoraggarwal.github.io/files/controlengineering/examsolution/soltestexam2.pdf) [Updated: Phase margin plot in 2c, 3a, 4a]
 
 Test exam 3 solution: [Click here](https://vibhoraggarwal.github.io/files/controlengineering/examsolution/soltestexam3.pdf)
 
