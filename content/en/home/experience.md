@@ -18,12 +18,23 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "ADAS simulation engineer"
+  company = "ETAS GmbH, Stuttgart"
+  company_url = "https://www.etas.com/en/"
+  location = "Stuttgart, Germany"
+  date_start = "2020-06-15"
+  date_end = "2020-10-31"
+  description = """
+  * Logging OSI messages using FMI, in COSYM, a co-simulation software
+  * Generating FMU models, using C++ Protobuf library for ADAS SiL simulation
+  """
+[[experience]]
   title = "Student Research Assistant"
   company = "Institute of Automatic Control, RWTH Aachen"
   company_url = "https://www.irt.rwth-aachen.de/cms/~iung/IRT/"
   location = "Aachen, Germany"
   date_start = "2019-05-01"
-  date_end = ""
+  date_end = "2020-03-31"
   description = """
   * Sensor fusion for Navigation and path planning of an Unmanned Aerial Vehicle
   """
