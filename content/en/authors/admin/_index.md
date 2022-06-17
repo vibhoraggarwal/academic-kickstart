@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Masters student in Automotive Engineering
+role: Simulation engineer for automated driving
 
 # Organizations/Affiliations
 organizations:
-- name: RWTH Aachen
-  url: "https://www.ika.rwth-aachen.de/en/"
+- name: ETAS GmbH
+  url: "https://www.etas.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include vehicle and robot dynamics, sensor fusion and Autonomous driving.
+bio: My professional interests include vehicle and robot dynamics, sensor fusion and Autonomous driving.
 
 interests:
 - Vehicle dynamics
@@ -30,7 +30,7 @@ education:
   courses:
   - course: Msc in Automotive Engineering
     institution: RWTH Aachen, Germany
-    year: 2020
+    year: 2021
   - course: B.Tech in Mechanical Engineering 
     institution: Indian Institute of Technology Kanpur, India
     year: 2017
@@ -72,6 +72,6 @@ email: "vibhorag24@gmail.com"
 # - Visitors
 ---
 
-I am a Master's student, studying Automotive Engineering at [RWTH Aachen](http://www.rwth-aachen.de/cms/~a/root/?lidx=1). I graduated in 2017 with a major and minor degree in Mechanical Engineering and Applied Mathematics, from [Indian Institute of Technology,Kanpur](https://www.iitk.ac.in). Currently, I am working as a [Student research assistant](https://de.wikipedia.org/wiki/Wissenschaftliche_Hilfskraft) on Sensor fusion for Navigation and path planning of an Unmanned Aerial Vehicle with [Galileo group](http://www.irt.rwth-aachen.de/cms/IRT/Forschung/~izql/Galileo/?lidx=1) at [Institute of Automatic Control](http://www.irt.rwth-aachen.de/cms/~iung/IRT/lidx/1/), [RWTH Aachen](http://www.rwth-aachen.de/cms/~a/root/?lidx=1). I have worked on the design and dynamics of Automotive vehicles at [IITK Motosports](https://www.iitk.ac.in/ame/sae/), Humanoid Robots at [Italian Institute of Technology, Genova](https://www.iit.it) and material handling robots for warehouse at [Grey Orange Robotics](www.greyorange.com). To know more about me, you can see my detailed Curriculum Vitae [here](https://vibhoraggarwal.github.io/files/CV.pdf) or short resume [here](https://vibhoraggarwal.github.io/files/VibhorResume_en.pdf)
+I am a simulation engineer at [ETAS GmbH](https://www.etas.com). I graduated with a major and minor degree in Mechanical Engineering and Applied Mathematics, from [Indian Institute of Technology,Kanpur](https://www.iitk.ac.in) in 2017 and further with a master's degree in Automotive Engineering from [RWTH Aachen](http://www.rwth-aachen.de/cms/~a/root/?lidx=1) in 2021. Currently, I am working on [SET Level](https://setlevel.de/) dealing with the simulation and modelling for Level 4 and 5 automated driving system. Previously, I worked on Sensor fusion for Navigation and path planning of an Unmanned Aerial Vehicle with [Galileo group](http://www.irt.rwth-aachen.de/cms/IRT/Forschung/~izql/Galileo/?lidx=1) at [Institute of Automatic Control](http://www.irt.rwth-aachen.de/cms/~iung/IRT/lidx/1/), [RWTH Aachen](http://www.rwth-aachen.de/cms/~a/root/?lidx=1). I have also worked on the design and dynamics of Automotive vehicles at [IITK Motosports](https://www.iitk.ac.in/ame/sae/), Humanoid Robots at [Italian Institute of Technology, Genova](https://www.iit.it) and material handling robots for warehouse at [Grey Orange Robotics](www.greyorange.com). To know more about me, you can see my detailed Curriculum Vitae [here](https://vibhoraggarwal.github.io/files/CV.pdf) or short resume [here](https://vibhoraggarwal.github.io/files/VibhorResume_en.pdf)
 
 When I am not working I am reading or hearing books, learning languages on [Duolingo](https://www.duolingo.com/profile/vibhorag), running, cycling outdoors (see my [profile on Strava](https://www.strava.com/athletes/21880684) )or simply meeting my friends.

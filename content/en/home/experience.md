@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "https://www.etas.com/en/"
   location = "Stuttgart, Germany"
   date_start = "2020-06-15"
-  date_end = "2020-10-31"
+  date_end = ""
   description = """
   * Logging OSI messages using FMI, in COSYM, a co-simulation software
   * Generating FMU models, using C++ Protobuf library for ADAS SiL simulation

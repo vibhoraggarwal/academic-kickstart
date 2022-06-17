@@ -68,8 +68,8 @@ time_format = "15:04"
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "vibhorag24@gmail.com"
-phone = "+4917659896222"
-address = "Bayernalle 7, Aachen, Germany"
+phone = ""
+address = ""
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = ""
