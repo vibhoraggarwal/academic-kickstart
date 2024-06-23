@@ -1,6 +1,7 @@
 [submodule "themes/academic"]
 	path = themes/academic
-	url = https://github.com/gcushen/hugo-academic.git
+	url = https://github.com/HugoBlox/hugo-blox-builder.git
+	branch = main
 [submodule "vibhoraggarwal.github.io"]
 	path = vibhoraggarwal.github.io
 	url = https://github.com/vibhoraggarwal/vibhoraggarwal.github.io.git
