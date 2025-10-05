@@ -1,7 +1,7 @@
 [submodule "themes/academic"]
 	path = themes/academic
-	url = https://github.com/HugoBlox/hugo-blox-builder.git
-	branch = main
+	url = https://github.com/vibhoraggarwal/hugo-blox-builder.git
+	branch = feature/formspree-update
 [submodule "vibhoraggarwal.github.io"]
 	path = vibhoraggarwal.github.io
 	url = https://github.com/vibhoraggarwal/vibhoraggarwal.github.io.git
