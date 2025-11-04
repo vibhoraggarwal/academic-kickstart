@@ -1,0 +1,28 @@
+<footer class="site-footer">
+  <p class="powered-by">
+    {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}} &middot; {{ end }}
+
+    {{/* Add language-specific legal links */}}
+    {{ if eq .Lang "de" }}
+      <a href="{{ "/de/datenschutz/" | relURL }}">Datenschutz</a> &middot;
+      <a href="{{ "/de/impressum/" | relURL }}">Impressum</a> &middot;
+    {{ else }}
+      <a href="{{ "/privacy/" | relURL }}">Privacy Policy</a> &middot;
+      <a href="{{ "/legal-notice/" | relURL }}">Legal Notice</a> &middot;
+    {{ end }}
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    {{ if ne .Type "docs" }}
+    <span class="float-right" aria-hidden="true">
+      <a href="#" id="back_to_top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    {{ end }}
+  </p>
+</footer>

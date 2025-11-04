@@ -48,7 +48,9 @@
   [[de.menu.main]]
     name = "Lebenslauf"
     url = "files/CV_De.pdf"
-    
+    weight = 60
+
   [[de.menu.main]]
     name = "Kurzer_Lebenslauf"
     url = "files/VibhorResume_de.pdf"
+    weight = 70
