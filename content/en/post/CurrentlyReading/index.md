@@ -1,13 +1,11 @@
 ---
 title: 'Books'
 subtitle: 'Recently read books'
-summary: 
+summary:
 authors:
 - Vibhor
-tags:
-- 
-categories:
-- 
+tags: []
+categories: []
 date: "2020-02-10T00:00:00Z"
 lastmod: "2020-02-10T00:00:00Z"
 featured: false

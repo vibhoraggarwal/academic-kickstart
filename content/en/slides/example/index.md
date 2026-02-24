@@ -6,7 +6,6 @@ tags: []
 categories: []
 marp: true
 date: "2019-02-05T00:00:00Z"
-markup: blackfriday
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: black

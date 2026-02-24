@@ -1,13 +1,12 @@
 ---
 title: 'Control Engineering 2019-20'
 subtitle: 'Test exam solutions'
-summary: 
+summary:
 authors:
 - Vibhor
 tags:
 - Control engineering
-categories:
-- 
+categories: []
 date: "2020-02-11T00:00:00Z"
 lastmod: "2020-02-11T00:00:00Z"
 featured: false
