@@ -68,6 +68,10 @@ time_format = "15:04"
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "vibhorag24@gmail.com"
+
+# Custom form action URL for the contact form (e.g. Formspree endpoint).
+# If set, this overrides the default email-based Formspree URL.
+email_form_url = "https://formspree.io/f/mqkkbwwe"
 phone = ""
 address = ""
 
